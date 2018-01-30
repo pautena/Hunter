@@ -1,0 +1,6 @@
+[submodule "Hunter_Unity"]
+	path = Hunter_Unity
+	url = git@github.com:pautena/Hunter_Unity.git
+[submodule "Hunter_backend"]
+	path = Hunter_backend
+	url = git@github.com:pautena/Hunter_backend.git
