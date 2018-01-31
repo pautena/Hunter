@@ -15,7 +15,7 @@ Mapbox SDK was used to generate the maps, which enabled us to define the points 
 
 ## Website
 
-More info in hunterapp.io
+More info in [hunterapp.io](hunterapp.io)
 
 ## Short video featuring the working application
 
