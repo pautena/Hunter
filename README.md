@@ -4,7 +4,7 @@
 <img src="img/ic_launcher3.png" width="200">
 </p>
 
-## Description
+# Description
 
 Currently many companies opt for a reward system to promote their products. Hunter is an application that offers this type of service through an augmented reality application, making users compete with each other to obtain different prizes.
 
@@ -15,59 +15,6 @@ When the user wishes to obtain the prize, they will simply indicate their email 
 The application has been developed with Unity, the world's leading game engine. Due to the fact that there is not a NEM library developed for the stable version of Unity and to protect the private keys of the administrator accounts, a server has been developed in NodeJS to make the transfers between the different accounts. The NEM API has been used to obtain the mosaics and the account status of the players.
 
 Mapbox SDK was used to generate the maps, which enabled us to define the points where companies can put a landmark and modify the aesthetics of the maps displayed by the user to improve the experience of use.
-
-
-## Website
-
-More info in [hunterapp.io](http://hunterapp.io)
-
-## Short video featuring the working application
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ByZ5MtOoYUs/0.jpg)](https://www.youtube.com/watch?v=ByZ5MtOoYUs)
-
-## Test the application
-1. Download Android apk from this [link](http://hunterapp.io/assets/android.apk)
-2. Join into the [Telegram group](https://t.me/hunter_beta) and request some fake prizes in your area.
-
-## Snapshots
-
-<p align="center">
-<table>
-<tr>
-    <td>
-        <img src="img/screenshoots/1.png" width="200">
-    </td>
-    <td>
-        <img src="img/screenshoots/2.png" width="200">
-    </td>
-    <td>
-        <img src="img/screenshoots/3.png" width="200">  
-    </td>
-</tr>
-<tr>
-    <td>
-        <img src="img/screenshoots/4.png" width="200">
-    </td>
-    <td>
-        <img src="img/screenshoots/5.png" width="200">
-    </td>
-    <td>
-        <img src="img/screenshoots/6.png" width="200">  
-    </td>
-</tr>
-<tr>
-    <td>
-        <img src="img/screenshoots/7.png" width="200">
-    </td>
-    <td>
-        <img src="img/screenshoots/8.png" width="200">
-    </td>
-    <td>
-        <img src="img/screenshoots/9.png" width="200">  
-    </td>
-</tr>
-</table>
-</p>
 
 # Installation
 
@@ -109,8 +56,55 @@ Click [here](docs/BACKEND_NODEJS.md) to show more info about the estructure of t
 In progress...
 
 
+# Screenshoots
+
+<p align="center">
+<table>
+<tr>
+    <td>
+        <img src="img/screenshoots/1.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/2.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/3.png" width="200">  
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="img/screenshoots/4.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/5.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/6.png" width="200">  
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="img/screenshoots/7.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/8.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/9.png" width="200">  
+    </td>
+</tr>
+</table>
+</p>
+
+
+
+
 # How to contribute
 Check [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+
+## Test the application
+1. Download Android apk from this [link](http://hunterapp.io/assets/android.apk)
+2. Join into the [Telegram group](https://t.me/hunter_beta) and request some fake prizes in your area.
 
 # Licence
 [MIT Licence](LICENCE.md)
