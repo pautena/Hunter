@@ -26,14 +26,42 @@ More info in hunterapp.io
 2. Join into the [Telegram group](https://t.me/hunter_beta) and request some fake prizes in your area.
 
 ## Snapshots
-<img src="img/screenshoots/1.png" width="200">
-<img src="img/screenshoots/2.png" width="200">
-<img src="img/screenshoots/3.png" width="200">
-<img src="img/screenshoots/4.png" width="200">
-<img src="img/screenshoots/5.png" width="200">
-<img src="img/screenshoots/6.png" width="200">
-<img src="img/screenshoots/8.png" width="200">
-<img src="img/screenshoots/9.png" width="200">
+
+<table>
+<tr>
+    <td>
+        <img src="img/screenshoots/1.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/2.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/3.png" width="200">  
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="img/screenshoots/4.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/5.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/6.png" width="200">  
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="img/screenshoots/7.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/8.png" width="200">
+    </td>
+    <td>
+        <img src="img/screenshoots/9.png" width="200">  
+    </td>
+</tr>
+</table>
 
 # Installation
 
