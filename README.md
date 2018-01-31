@@ -1,6 +1,6 @@
 # Hunter
 
-![](img/ic_launcher3.png)
+![](img/ic_launcher3.png =100x100)
 
 ## Description
 
@@ -24,7 +24,7 @@ More info in hunterapp.io
 2. Join into the [Telegram group](https://t.me/hunter_beta) and request some fake prizes in your area.
 
 ## Snapshots
-![](img/screenshoots/1.png)
+![](img/screenshoots/1.png = 200x)
 ![](img/screenshoots/2.png)
 ![](img/screenshoots/3.png)
 ![](img/screenshoots/4.png)
