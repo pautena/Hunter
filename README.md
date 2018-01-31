@@ -1,6 +1,8 @@
 # Hunter
 
-![](img/ic_launcher3.png =100x100)
+<p align="center">
+<img src="img/ic_launcher3.png" width="200">
+</p>
 
 ## Description
 
@@ -24,15 +26,14 @@ More info in hunterapp.io
 2. Join into the [Telegram group](https://t.me/hunter_beta) and request some fake prizes in your area.
 
 ## Snapshots
-![](img/screenshoots/1.png = 200x)
-![](img/screenshoots/2.png)
-![](img/screenshoots/3.png)
-![](img/screenshoots/4.png)
-![](img/screenshoots/5.png)
-![](img/screenshoots/6.png)
-![](img/screenshoots/7.png)
-![](img/screenshoots/8.png)
-![](img/screenshoots/9.png)
+<img src="img/screenshoots/1.png" width="200">
+<img src="img/screenshoots/2.png" width="200">
+<img src="img/screenshoots/3.png" width="200">
+<img src="img/screenshoots/4.png" width="200">
+<img src="img/screenshoots/5.png" width="200">
+<img src="img/screenshoots/6.png" width="200">
+<img src="img/screenshoots/8.png" width="200">
+<img src="img/screenshoots/9.png" width="200">
 
 # Installation
 
