@@ -113,7 +113,7 @@ In progress...
 Check [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
 # Licence
-[MIT Licence](docs/LICENCE.md)
+[MIT Licence](LICENCE.md)
 
 
 
