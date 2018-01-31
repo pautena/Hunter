@@ -27,6 +27,7 @@ More info in hunterapp.io
 
 ## Snapshots
 
+<p align="center">
 <table>
 <tr>
     <td>
@@ -62,6 +63,7 @@ More info in hunterapp.io
     </td>
 </tr>
 </table>
+</p>
 
 # Installation
 
